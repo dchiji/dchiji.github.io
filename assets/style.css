@@ -344,3 +344,7 @@ small a {
     padding: 50px;
     text-align: center;
 }
+
+.profile-container {
+    padding-left: 20px;
+}
